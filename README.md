@@ -5,7 +5,7 @@ Este é o nossos testes automatizados para a API do DemoQA. Usamos Python, a dup
 
 ## 📂 Estrutura do Projeto
 ```bash
-project-challenge-qa-acc/
+project-desafio-qa-acc/
 ├── tests/
 │   ├── api/
 │   │   ├── test_create_user.py # Testes para criar novos usuários
